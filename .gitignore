@@ -1,3 +1,10 @@
 .DS_Store
 .idea/
 __pycache__/
+datasets/aclImdb/
+datasets/housing/
+datasets/iris/
+datasets/mnist/
+datasets/wdbc/
+datasets/wine/
+test.py
